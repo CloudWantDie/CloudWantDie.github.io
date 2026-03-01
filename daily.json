@@ -1,6 +1,6 @@
 { 
 "set_run" : false,
 "//Comment": "local_date is in utc time remember",  
-"run_local_date" : {"day":1, "month":3, "year":2026}
+"run_local_date" : {"day":1, "month":3, "year":2026},
 "run_params" : {}
 }
