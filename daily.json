@@ -1,1 +1,6 @@
-{ "id": 2 }
+{ 
+"set_run" : false,
+"//Comment": "local_date is in utc time remember",  
+"run_local_date" : "2026-03-0",
+"run_params" : {}
+}
